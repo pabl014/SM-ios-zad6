@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Zadanie6-ios
+
+  Created by Paweł Rudnik on 10/11/2023.
+  
+*/
+
+"Information" = "Informacja";
+"The faculty is running %i programs at graduate and undergraduate level." = "Wydzial prowadzi %i kierunkow na poziomie magisterskim i licencjackim.";
+"image" = "wi-pl";
